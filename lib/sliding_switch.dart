@@ -132,7 +132,7 @@ class _SlidingSwitch extends State<SlidingSwitch>
                       style: TextStyle(
                           color:
                               turnState! ? widget.colorOn : widget.inactiveColor,
-                          fontSize: 17,
+                          fontSize: 14,
                           fontWeight: FontWeight.w600),
                     ),
                   ),
